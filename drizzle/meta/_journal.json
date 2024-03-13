@@ -43,6 +43,13 @@
       "when": 1710347244686,
       "tag": "0005_rainy_prism",
       "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1710348594021,
+      "tag": "0006_lazy_kang",
+      "breakpoints": true
     }
   ]
 }
