@@ -19,6 +19,7 @@
     "@elysiajs/jwt": "^0.7.0",
     "dayjs": "^1.11.10",
     "drizzle-orm": "^0.29.4",
+    "drizzle-typebox": "^0.1.1",
     "elysia": "^0.7.29",
     "nodemailer": "^6.9.11",
     "postgres": "^3.4.3",
