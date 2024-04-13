@@ -26,5 +26,6 @@ bun dev
 - it should be able to sign in as a restaurant manager
 - it should be able to register as a new customer
 - it should be able to crete an order to the restaurant
-- it should be able to manage the restaurant orderst
+- it should be able to manage the restaurant orders
+- it should be able to update the restaurant public profile
 - it should be able to list metrics from the restaurant
